@@ -1,0 +1,310 @@
+[
+  {
+    "rol": "users",
+    "module": [
+      {
+        "url": "/main/test",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "test",
+        "lang_property": "test",
+        "acl": "test",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/category",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "category",
+        "lang_property": "category",
+        "acl": "category",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/article",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "article",
+        "lang_property": "article",
+        "acl": "article",
+        "visible": true,
+        "value": [
+          "read",
+          "edit"
+        ]
+      },      
+      {
+        "url": "/main/user-post",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "user post",
+        "lang_property": "user_post",
+        "acl": "user_post",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update"
+        ]
+      }      
+    ]
+  },
+  {
+    "rol": "business",
+    "module": [
+      {
+        "url": "/main/test",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "test",
+        "lang_property": "test",
+        "acl": "test",
+        "visible": false,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/category",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "category",
+        "lang_property": "category",
+        "acl": "category",
+        "visible": true,
+        "value": [
+          "read",
+          "edit"
+        ]
+      },
+      {
+        "url": "/main/article",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "article",
+        "lang_property": "article",
+        "acl": "article",
+        "visible": true,
+        "value": [
+          "read",
+          "edit"
+        ]
+      },
+      {
+        "url": "/main/register-users",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "register users",
+        "lang_property": "register_users",
+        "acl": "register_users",
+        "visible": false,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/business-post",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "business post",
+        "lang_property": "business_post",
+        "acl": "business_post",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      }
+    ]
+  },
+  {
+    "rol": "admin",
+    "module": [
+      {
+        "url": "/main/test",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "test",
+        "lang_property": "test",
+        "acl": "test",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/category",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "category",
+        "lang_property": "category",
+        "acl": "category",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/article",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "article",
+        "lang_property": "article",
+        "acl": "article",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/register-users",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "register users",
+        "lang_property": "register_users",
+        "acl": "register_users",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/assign-roles",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "assign roles",
+        "lang_property": "assign_roles",
+        "acl": "assign_roles",
+        "visible": false,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      },
+      {
+        "url": "/main/add-post",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "add post",
+        "lang_property": "add_post",
+        "acl": "add_post",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update"
+        ]
+      },
+      {
+        "url": "/main/post",
+        "iconWeb": "",
+        "mobile": "",
+        "android": "",
+        "ios": "",
+        "ionic": "",
+        "name": "post",
+        "lang_property": "post",
+        "acl": "post",
+        "visible": true,
+        "value": [
+          "read",
+          "create",
+          "edit",
+          "update",
+          "delete"
+        ]
+      }      
+    ]
+  }
+]

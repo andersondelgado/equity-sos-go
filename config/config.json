@@ -1,0 +1,22 @@
+{
+    "domain": "http://localhost:1323",
+    "remote_host": [
+      {
+        "name": "http://localhost:8000"
+      }
+    ],
+    "port": "1323",
+    "db_dialect": "mysql",
+    "db_host": "127.0.0.1",
+    "db_name": "db_equity_sos",
+    "db_user": "equity",
+    "db_password": "123456",
+    "db_port": "3306",
+    "db_sslmode":"disable",
+    "app_key": "SECRET",
+    "smtp_host": "",
+    "smtp_port": "",
+    "smtp_email": "",
+    "smtp_password": "",
+    "smtp_tls": ""
+  }

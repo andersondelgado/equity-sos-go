@@ -1,0 +1,5 @@
+{
+	"ImportPath": "goapiequitysos",
+	"GoVersion": "go1.11",
+	"Deps": []
+}

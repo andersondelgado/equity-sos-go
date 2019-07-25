@@ -1,0 +1,6 @@
+---
+applications:
+- name: goapiequitysos
+  random-route: true
+  memory: 128M
+

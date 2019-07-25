@@ -1,0 +1,76 @@
+{
+    "id": 6464865213,
+    "post_data": {
+        "user_id": 1,
+        "range_damage": "1-5",
+        "hash_solidty": "HAGFUDSAGYU21H3123123ASDNX22",
+        "full_text": "",
+        "atachments": [],
+        "category_post_id": [
+            "dskjhkdjhfkj3223e4e23",
+            "sadhk21312321sdads"
+        ],
+        "promedy_peoples": [
+            {
+                "people": "young",
+                "quantity": 50
+            },
+            {
+                "people": "mayor",
+                "quantity": 5
+            },
+            {
+                "people": "childs",
+                "quantity": 10
+            }
+        ]
+    },
+    "articles_data": [
+        {
+            "article_id": 1,
+            "quantity_ask": 23,
+            "quantity_left": 18,
+            "articles_actors": [
+                {
+                    "user_id": 150,
+                    "quantity_delivery": 5,
+                    "status_delivery_sender": false,
+                    "status_delivery_reciever": false,
+                    "status_order": "pending",
+                    "created_at": "2019-07-05 17:20:45",
+                    "date_delivery_sender": "",
+                    "date_delivery_reciever": ""
+                }
+            ]
+        },
+        {
+            "article_id": 2,
+            "quantity_ask": 13,
+            "articles_actors": []
+        },
+        {
+            "article_id": 4,
+            "quantity_ask": 37,
+            "articles_actors": []
+        },
+        {
+            "article_id": 20,
+            "quantity_ask": 50,
+            "articles_actors": []
+        }
+    ],
+    "status_post": [
+        {
+            "id_status": "pending",
+            "created_at": "2019-07-05 07:17:45"
+        },
+        {
+            "id_status": "pending inventory",
+            "created_at": "2019-07-05 12:17:45"
+        },
+        {
+            "id_status": "invetory completed",
+            "created_at": "2019-07-05 17:20:45"
+        }
+    ]
+}
